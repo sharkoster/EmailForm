@@ -1,0 +1,6 @@
+AddDefaultCharset UTF-8
+
+DirectoryIndex emailform.php
+
+RemoveHandler .html .htm
+AddType application/x-httpd-php .php .htm .html .phtml
